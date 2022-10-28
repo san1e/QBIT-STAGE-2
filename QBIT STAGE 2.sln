@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Високоcний рiк",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Не виконується жодна з умов", "Не виконується жодна з умов\Не виконується жодна з умов.csproj", "{565E435A-EC40-4C0C-9C7A-48559605B000}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Не виконується рiвно одна з умов", "Не виконується рiвно одна з умов\Не виконується рiвно одна з умов.csproj", "{25A04E8B-91E5-44D7-AB3F-2CB51937AD06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{565E435A-EC40-4C0C-9C7A-48559605B000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{565E435A-EC40-4C0C-9C7A-48559605B000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{565E435A-EC40-4C0C-9C7A-48559605B000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A04E8B-91E5-44D7-AB3F-2CB51937AD06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A04E8B-91E5-44D7-AB3F-2CB51937AD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A04E8B-91E5-44D7-AB3F-2CB51937AD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A04E8B-91E5-44D7-AB3F-2CB51937AD06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
