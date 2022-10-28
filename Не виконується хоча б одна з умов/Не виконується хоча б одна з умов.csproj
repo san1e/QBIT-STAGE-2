@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Не_виконується_хоча_б_одна_з_умов</RootNamespace>
+  </PropertyGroup>
+
+</Project>

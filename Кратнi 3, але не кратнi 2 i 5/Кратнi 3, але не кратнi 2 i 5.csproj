@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Кратнi_3__але_не_кратнi_2_i_5</RootNamespace>
+  </PropertyGroup>
+
+</Project>
