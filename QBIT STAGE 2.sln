@@ -51,7 +51,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Високоcний рiк",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Не виконується жодна з умов", "Не виконується жодна з умов\Не виконується жодна з умов.csproj", "{565E435A-EC40-4C0C-9C7A-48559605B000}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Не виконується рiвно одна з умов", "Не виконується рiвно одна з умов\Не виконується рiвно одна з умов.csproj", "{25A04E8B-91E5-44D7-AB3F-2CB51937AD06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Не виконується рiвно одна з умов", "Не виконується рiвно одна з умов\Не виконується рiвно одна з умов.csproj", "{25A04E8B-91E5-44D7-AB3F-2CB51937AD06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HELP", "HELP\HELP.csproj", "{FC037C76-DF1F-4ED3-8D0A-8A1375EB282B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Рівно одна з трьох умов", "Рівно одна з трьох умов\Рівно одна з трьох умов.csproj", "{86C6D097-7EE0-4B47-A84F-B67245D3CF50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Площадь пересечения двух прямоугольников", "Площадь пересечения двух прямоугольников\Площадь пересечения двух прямоугольников.csproj", "{29CCF467-EE70-4D61-B49B-7FB61528E3BD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +165,18 @@ Global
 		{25A04E8B-91E5-44D7-AB3F-2CB51937AD06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25A04E8B-91E5-44D7-AB3F-2CB51937AD06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25A04E8B-91E5-44D7-AB3F-2CB51937AD06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC037C76-DF1F-4ED3-8D0A-8A1375EB282B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC037C76-DF1F-4ED3-8D0A-8A1375EB282B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC037C76-DF1F-4ED3-8D0A-8A1375EB282B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC037C76-DF1F-4ED3-8D0A-8A1375EB282B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C6D097-7EE0-4B47-A84F-B67245D3CF50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C6D097-7EE0-4B47-A84F-B67245D3CF50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C6D097-7EE0-4B47-A84F-B67245D3CF50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C6D097-7EE0-4B47-A84F-B67245D3CF50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29CCF467-EE70-4D61-B49B-7FB61528E3BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29CCF467-EE70-4D61-B49B-7FB61528E3BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29CCF467-EE70-4D61-B49B-7FB61528E3BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29CCF467-EE70-4D61-B49B-7FB61528E3BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

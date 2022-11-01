@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace _11111
 {
@@ -6,12 +7,17 @@ namespace _11111
     {
         static void Main(string[] args)
         {
-            double num = Double.Parse(Console.ReadLine());
-            Console.WriteLine((int)num / 10000);
-            Console.WriteLine((int)num / 1000 % 100 % 10);
-            Console.WriteLine((int)num % 1000 / 100);
-            Console.WriteLine((int)num % 100);
-            Console.WriteLine((int)num % 10);
+            int val = Convert.ToInt32(Console.ReadLine());
+
+            bool diff = val.ToString().Distinct().Count() == val.ToString().Length;
+
+            //Console.WriteLine("Введите число: ");
+            //string str = Console.ReadLine();
+            //bool diff = str.Distinct().Count() == str.Length;
+
+            Console.WriteLine("Все цифры различные: " + diff);
+
+
         }
     }
 }
